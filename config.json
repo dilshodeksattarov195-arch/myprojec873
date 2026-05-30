@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcncrypt",
+        "uuid": 8805951,
+        "checksum": "rhyhtb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
